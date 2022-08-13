@@ -82,5 +82,4 @@ jobs:
       with:
         name: dist-without-markdown
         path: |
-          bin
-          lib
+          build/bin
